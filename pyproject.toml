@@ -37,7 +37,7 @@ dependencies = [
 dynamic = ["version"]
 
 [project.optional-dependencies]
-test = [
+tests = [
 	# Run tests and coverage
     "pytest",
     "pytest-cov",
