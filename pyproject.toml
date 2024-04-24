@@ -32,7 +32,8 @@ dependencies = [
     "matplotlib",
     "tqdm", # stable-baselines3 progress bar callback
     "rich", # stable-baselines3 progress bar callback
-    "tensorboard"
+    "tensorboard",
+    "protobuf==4.25.0" # tensorboard bug
 ]
 dynamic = ["version"]
 
