@@ -26,3 +26,6 @@ pip install -e .[tests]
 cd PATH_TO_THIS_PACKAGE
 pip install -e ."[tests]"
 ```
+
+## Maintainer
+Stable-Baselines3-Extensions is currently maintained by Lara Bergmann (@lbergmann1).
